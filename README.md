@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Talha 👋
+Computer Engineering Student | Web & AI Developer
+
+## 🚀 Öne Çıkan Projelerim
+
+### 👟 İncegedik Kundura - Dijital Ayakkabı Kataloğu
+Balıkesir/İvrindi'deki yerel işletme için geliştirilmiş, mobil uyumlu ve QR kod destekli dijital ürün kataloğu.
+
+- 🌐 **Canlı Site:** [incegedik-kundura.vercel.app](https://incegedik-kundura.vercel.app)
+- 🛠️ **Teknolojiler:** HTML5, CSS3, JavaScript (ES6+), Vercel
+- 📱 **Özellikler:** Kategori filtreleme, dinamik arama, WhatsApp sipariş/iletişim yönlendirmesi, QR kod ile dükkan içi erişim ve şifre korumalı yönetim paneli.
 
 <!--
 **talha4151/talha4151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
