@@ -16,7 +16,7 @@ Balıkesir/İvrindi'deki yerel işletme için geliştirilmiş, mobil uyumlu ve Q
 Günlük gelir-gider dengesini ve kişisel finansal akışı kolayca yönetmek için geliştirilmiş modern web uygulaması.
 
 - 🌐 **Canlı Site:** [cebimde-three.vercel.app](https://cebimde-three.vercel.app)
-- 🛠️ **Teknolojiler:** HTML5, CSS3, JavaScript (ES6+), LocalStorage, Vercel *(Kullandığın ekstra kütüphane varsa ekleyebilirsin)*
+- 🛠️ **Teknolojiler:** HTML5, CSS3, JavaScript (ES6+), LocalStorage, Vercel 
 - 📱 **Özellikler:** Gelir ve gider ekleme, kategori bazlı harcama analizi, anlık bakiye hesaplama ve mobil öncelikli (responsive) kullanıcı arayüzü.
 
 <!--
